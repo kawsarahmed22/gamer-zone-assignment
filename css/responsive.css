@@ -19,7 +19,8 @@
     .banner-full,
     .we-are-gamer,
     .online-game-image,
-    .play-instantly-section {
+    .play-instantly-section,
+    .career {
         flex-direction: column;
     }
 
