@@ -216,3 +216,24 @@ nav ul li a {
     font-weight: 600;
     line-height: 40px;
 }
+
+/* Different game css */
+
+.game-container img, .game-section > div, .game-bottom > div {
+margin-right: 5px;
+}
+
+/* footer css */
+
+footer {
+    background: #0B0223;
+    padding:  100px;
+}
+
+footer h2, footer p {
+    color: white;
+}
+
+footer p {
+    margin-right: 10px;
+}

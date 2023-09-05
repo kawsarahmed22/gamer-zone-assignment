@@ -20,7 +20,10 @@
     .we-are-gamer,
     .online-game-image,
     .play-instantly-section,
-    .career {
+    .career,
+    .game-bootom,
+    .game-container,
+    .game-section {
         flex-direction: column;
     }
 
