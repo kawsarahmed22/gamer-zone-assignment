@@ -1,0 +1,88 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700;800&display=swap');
+
+/* common css */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    line-height: 1.6;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+main {
+    max-width: 1100px;
+    padding: 0 100px;
+    margin: 0 auto;
+}
+
+
+
+:root {
+    --purple: #F948B2;
+    --white: #ffffff;
+    --yellow: yellow;
+}
+
+.primary-color {
+    color: var(--purple);
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* header css */
+
+header {
+    padding: 30px 100px;
+}
+
+
+.logo-title {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 10px;
+}
+
+.social-media-icon {
+    width: 33.916px;
+
+}
+
+.social-icon {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    border-radius: 8px;
+    background: rgba(11, 2, 35, 0.10);
+    padding: .5rem 1rem;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+nav ul li {
+    margin-right: 2rem;
+}
