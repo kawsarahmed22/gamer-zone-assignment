@@ -17,7 +17,8 @@
     nav,
     ul,
     .banner-full,
-    .we-are-gamer {
+    .we-are-gamer,
+    .online-game-image {
         flex-direction: column;
     }
 
