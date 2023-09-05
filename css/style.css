@@ -53,7 +53,7 @@ main,
 
 }
 
-.brn-primary {
+.btn-primary {
     border-radius: 48px;
     background: linear-gradient(90deg, #FF42A5 13.13%, #FF42A5 87.94%);
     padding: 1.2rem 3rem;
@@ -61,7 +61,8 @@ main,
     color: white;
 
 }
-.brn-secondary{
+
+.btn-secondary {
     border-radius: 48px;
     background: #4EC5F7;
     padding: 1.2rem 3rem;
@@ -120,11 +121,11 @@ nav ul li a {
     margin-right: 5px;
 }
 
-.banner-image {
+.banner-image, .gamer-image {
     max-width: 100%;
 }
 
-.banner-image img {
+.banner-image img, .gamer-image img {
     width: 90%;
 }
 
@@ -146,3 +147,15 @@ nav ul li a {
     line-height: normal;
     text-transform: uppercase;
 }
+
+/*  We are gamer css */
+.we-are-gamer{
+    margin: 20  0;
+}
+.gamer-content-description {
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+

@@ -16,7 +16,8 @@
 
     nav,
     ul,
-    .banner-full {
+    .banner-full,
+    .we-are-gamer {
         flex-direction: column;
     }
 
@@ -25,7 +26,7 @@
         margin-bottom: 10px;
     }
 
-    .banner img {
+    .banner img, .gamer-image img {
         max-width: 80%;
     }
 
@@ -34,7 +35,7 @@
         margin-top: 1.2rem;
     }
 
-    .brn-primary,   .brn-secondary {
+    .btn-primary,   .btn-secondary {
         padding: 10px 20px;
         border-radius: 24px;
         margin: 0 5px;
