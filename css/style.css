@@ -126,11 +126,11 @@ nav ul li a {
     margin-right: 5px;
 }
 
-.banner-image, .gamer-image {
+.banner-image, .gamer-image, .play-instantly-image {
     max-width: 100%;
 }
 
-.banner-image img, .gamer-image img {
+.banner-image img, .gamer-image img, .play-instantly-image img {
     width: 90%;
 }
 
@@ -181,3 +181,11 @@ line-height: 45px;
     width: 100%;
 }
 
+
+/* Play instantly css */
+
+.play-instantly-title {
+font-size: 48px;
+font-weight: 700;
+line-height: 60px;
+}

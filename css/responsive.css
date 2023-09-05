@@ -18,7 +18,8 @@
     ul,
     .banner-full,
     .we-are-gamer,
-    .online-game-image {
+    .online-game-image,
+    .play-instantly-section {
         flex-direction: column;
     }
 
